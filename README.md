@@ -4,7 +4,7 @@ This is a learning record for CS106L. Only something interesting will be recorde
 
 | Chapter | Status  |
 | :-----: | :-----: |
-|   ch4   | &#9745; |
+|   [ch4]([https://github.com/MissingJoe/CS106L-lab1](https://github.com/MissingJoe/Modern-cpp-Learning/blob/master/doc/CH4.md))   | &#9745; |
 |   ch5   | &#9744; |
 |   ch6   | &#9744; |
 
